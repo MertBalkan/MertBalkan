@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Mert+Balkan...;I'm+Curious+in+Game+Dev+Industry!)](https://git.io/typing-svg)
 
-
-### Hi there 👋
 - 🔭 I’m currently working on Unreal Engine 4!
 - 🌱 I’m currently learning Game Developing, OpenGL Framework and Unity 3D game engine and Unreal Engine 4 game engine!
 - 💬 Ask me about anything you want that helps you learn about me!
