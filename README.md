@@ -1,3 +1,5 @@
+/***********************************************************************************************\*
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Mert+Balkan...;I'm+Curious+in+Game+Dev+Industry!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Unreal Engine 4!
