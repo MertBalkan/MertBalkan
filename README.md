@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Game Developing, OpenGL Framework and Unity 3D game engine and Unreal Engine 4 game engine!
 - 💬 Ask me about anything you want that helps you learn about me!
 - 📫 How to reach me: instagram -> <a href = "https://www.instagram.com/mert.honey/"><img src = "https://cdn.icon-icons.com/icons2/1753/PNG/128/iconfinder-social-media-applications-3instagram-4102579_113804.png" width = "32px;" height = "32px;"></a>
-- 😄 Pronouns: Im patient in game developing and i like learn new things!
+- 😄 Pronouns: Im passionate in game developing and i like learn new things!
 - ⚡ Fun fact: Im playing games since 4 years old and developing games since 11! Also watching movies and series, reading books and making puzzles are my favorite things to do! 
 
 <strong> Im currently member of Pamukkale University Computer Enginnering student! </strong>
