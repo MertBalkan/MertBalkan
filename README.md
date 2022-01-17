@@ -23,7 +23,7 @@
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Unity-Logo.png" alt="unity" width="70" height="40"/> </a> 
-<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png" alt="unreal engine" width="70" height="40"/> </a> 
+<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png" alt="unreal engine" width="40" height="40"/> </a> 
   
 
   
