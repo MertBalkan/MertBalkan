@@ -13,6 +13,7 @@
 ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
   <a href="https://www.linkedin.com/in/mert-balkan-6515931b9/" target="_blank" rel="nofollow"><img alt="Mert's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mertbalkan3@gmail.com" target="_blank" rel="nofollow"><img alt="Mert's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.artstation.com/mertbalkan7" target="_blank" rel="nofollow"><img alt="Mert's Artstation" src="https://camo.githubusercontent.com/98b30855da3ae8848a668b1cf87f892146be7c900e4036bd96fda770efc91e9a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41727453746174696f6e26636f6c6f723d323232323232266c6f676f3d41727453746174696f6e266c6f676f436f6c6f723d313341464630266c6162656c3d" /></a>
   
 
 
