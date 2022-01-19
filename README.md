@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Mert+Balkan...;I'm+Curious+in+Game+Dev+Industry!)](https://git.io/typing-svg)
 
 - 💬 Ask me about anything you want that helps you learn about me!
-- 📫 How to reach me: instagram -> <a href = "https://www.instagram.com/mert.honey/"><img src = "https://cdn.icon-icons.com/icons2/1753/PNG/128/iconfinder-social-media-applications-3instagram-4102579_113804.png" width = "16px;" height = "16px;"></a>
+- 📫 How to reach me: instagram -> <a href = "https://www.instagram.com/mert.honey/"><img src = "https://cdn.icon-icons.com/icons2/1753/PNG/128/iconfinder-social-media-applications-3instagram-4102579_113804.png" width = "24px;" height = "24px;"></a>
 - 😄 Pronouns: Im passionate in game developing and i like learn new things!
 - ⚡ Fun fact: Im playing games since 4 years old and developing games since 11! Also watching movies and series, reading books and making puzzles are my favorite things to do! 
 
