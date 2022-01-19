@@ -53,7 +53,7 @@
 </a>
 </p>
 
-<h1>My Last Project</h1>
+<h1 align="center">My Last Project</h1>
 
 
 
