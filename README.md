@@ -54,6 +54,7 @@
 </p>
 
 <h1 align="center">My Last Project</h1>
+<p><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link:</a></p>
 
 
 
