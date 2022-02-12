@@ -7,7 +7,7 @@
 - 😄 Pronouns: Im passionate in game developing and i like learn new things!
 - ⚡ Fun fact: Im playing games since 4 years old and developing games since 11! Also watching movies and series, reading books and making puzzles are my favorite things to do! 
 
-<strong> Im currently member of Pamukkale University Computer Enginnering student! </strong>
+<strong> Im currently member of Pamukkale University Computer Enginnering department! </strong>
 
 <strong> Let's Go! </strong>
 ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
