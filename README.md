@@ -51,7 +51,7 @@
 | <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1) 🎮 | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
 
 <h1 align="center">My Last Personal Project</h1>
-<p><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link:</a></p>
+<p align = "center"><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link</a></p>
 
 
 
