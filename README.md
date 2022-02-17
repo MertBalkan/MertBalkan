@@ -67,9 +67,3 @@ https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
-
-| Item      | Value |
-| --------- | --:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
