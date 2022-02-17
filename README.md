@@ -43,7 +43,7 @@
 <p align="left">
 <href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
-| Jams Joined  | Gamejams Date | Game Name|
+| Jam Joined  | Gamejam Date | Game Name|
 | ------------- | ------------- | ------------- |
 | <a href = "https://itch.io/jam/atom-gamejam-2">At0m GameJam </a>| February 12th 2021  | <a href = "https://cooperss.itch.io/cheater-tua-man">CheaterTuaMan</a>|
 | <a href = "https://itch.io/jam/magara-jam-3"> Magara GameJam</a> | July 9th 2021  |  <a href = "https://cooperss.itch.io/zeppelinpunk">ZeppelinPunk</a>|
