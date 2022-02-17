@@ -43,7 +43,7 @@
 <p align="left">
 <href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
-| Jams Joined  | 4 |
+| Jams Joined  | Gamejams Date |
 | ------------- | ------------- |
 | At0m GameJam | February 12th 2021  |
 | Magara GameJam | July 9th 2021  |
