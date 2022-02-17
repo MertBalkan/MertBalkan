@@ -47,8 +47,8 @@
 | ------------- | ------------- |
 | At0m GameJam | February 12th 2021  |
 | Magara GameJam | July 9th 2021  |
-| Global Gamejam 2022 | 20 January 2022  |
-| Hacettepe University GameJam (HUJAM-1)  | 11 February 2022  |
+| Global Gamejam 2022 | January 20th 2022  |
+| Hacettepe University GameJam (HUJAM-1)  | February 11th 2022  |
   
 <p align="center">
 <a href="https://github.com/MertBalkan">
