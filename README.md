@@ -46,7 +46,7 @@
 | Jams Joined  | Gamejams Date | Game Name|
 | ------------- | ------------- | ------------- |
 | <a href = "https://itch.io/jam/atom-gamejam-2">At0m GameJam </a>| February 12th 2021  | <a href = "https://cooperss.itch.io/cheater-tua-man">CheaterTuaMan</a>|
-| Magara GameJam | July 9th 2021  |  <a href = "https://cooperss.itch.io/zeppelinpunk">ZeppelinPunk</a>|
+| <a href = "https://itch.io/jam/magara-jam-3"> Magara GameJam</a> | July 9th 2021  |  <a href = "https://cooperss.itch.io/zeppelinpunk">ZeppelinPunk</a>|
 |  <a href = "https://globalgamejam.org/">Global Gamejam 2022 </a> | January 20th 2022  | <a href = "https://globalgamejam.org/2022/games/seperation-0">Seperation</a>|
 | <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1)  | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
   
