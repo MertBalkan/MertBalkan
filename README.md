@@ -43,12 +43,12 @@
 <p align="left">
 <href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
-| Jams Joined  | Gamejams Date |
+<div align ="center">| Jams Joined  | Gamejams Date |
 | ------------- | ------------- |
 | At0m GameJam | February 12th 2021  |
 | Magara GameJam | July 9th 2021  |
 | Global Gamejam 2022 | 20 January 2022  |
-| Hacettepe University GameJam (HUJAM-1)  | 11 February 2022  | 
+| Hacettepe University GameJam (HUJAM-1)  | 11 February 2022  | </div>
   
 <p align="center">
 <a href="https://github.com/MertBalkan">
