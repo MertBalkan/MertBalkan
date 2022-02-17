@@ -43,14 +43,12 @@
 <p align="left">
 <href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   
-<p align = "center">
 | Jam Joined  | Gamejam Date | Game Name|
 | ------------- | ------------- | ------------- |
 | <a href = "https://itch.io/jam/atom-gamejam-2" align = "center">At0m GameJam 🎮</a>| February 12th 2021  | <a href = "https://cooperss.itch.io/cheater-tua-man">CheaterTuaMan</a>|
 | <a href = "https://itch.io/jam/magara-jam-3"> Magara GameJam 🎮</a> | July 9th 2021  |  <a href = "https://cooperss.itch.io/zeppelinpunk">ZeppelinPunk</a>|
 |  <a href = "https://globalgamejam.org/">Global Gamejam 2022 🎮</a> | January 20th 2022  | <a href = "https://globalgamejam.org/2022/games/seperation-0">Seperation</a>|
 | <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1) 🎮 | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
-</p>
 
 <h1 align="center">My Last Personal Project</h1>
 <p><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link:</a></p>
