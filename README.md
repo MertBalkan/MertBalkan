@@ -43,11 +43,11 @@
 <p align="left">
 <href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
-| Jams Joined  | Gamejams Date |
+| Jams Joined  | Gamejams Date | Game Name|
 | ------------- | ------------- |
-| <a href = "https://cooperss.itch.io/cheater-tua-man">At0m GameJam </a>| February 12th 2021  |
+| <a href = "https://itch.io/jam/atom-gamejam-2">At0m GameJam </a>| February 12th 2021  | <a href = "https://cooperss.itch.io/cheater-tua-man">CheaterTuaMan</a>
 | Magara GameJam | July 9th 2021  |
-| Global Gamejam 2022 | January 20th 2022  |
+|  <a href = "https://globalgamejam.org/">Global Gamejam 2022 </a> | January 20th 2022  |
 | Hacettepe University GameJam (HUJAM-1)  | February 11th 2022  |
   
 <p align="center">
