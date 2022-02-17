@@ -49,6 +49,16 @@
 | <a href = "https://itch.io/jam/magara-jam-3"> Magara GameJam</a> | July 9th 2021  |  <a href = "https://cooperss.itch.io/zeppelinpunk">ZeppelinPunk</a>|
 |  <a href = "https://globalgamejam.org/">Global Gamejam 2022 </a> | January 20th 2022  | <a href = "https://globalgamejam.org/2022/games/seperation-0">Seperation</a>|
 | <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1)  | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
+
+
+<h1 align="center">My Last Personal Project</h1>
+<p><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link:</a></p>
+
+
+
+https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-9cc4-39cfaec31d2d.mp4
+
+
   
 <p align="center">
 <a href="https://github.com/MertBalkan">
@@ -58,16 +68,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertBalkan&layout=compact&theme=great-gatsby" />
 </a>
 </p>
-
-<h1 align="center">My Last Project</h1>
-<p><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link:</a></p>
-
-
-
-https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-9cc4-39cfaec31d2d.mp4
-
-
-
 
   
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
