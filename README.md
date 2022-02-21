@@ -69,6 +69,6 @@ https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-
 </p>
 
   
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=mertbalkan&color=green)
 
 
