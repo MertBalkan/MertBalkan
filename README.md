@@ -68,8 +68,8 @@ https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-
 </a>
 </p>
 
-  
-![](https://komarev.com/ghpvc/?username=mertbalkan&color=green)
+<div align = "center"> 
+  ![](https://komarev.com/ghpvc/?username=mertbalkan&color=green) </div>
 
   
  
