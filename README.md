@@ -67,10 +67,8 @@ https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertBalkan&layout=compact&theme=great-gatsby" />
 </a>
 </p>
-
-<div align = "center"> 
-  ![](https://komarev.com/ghpvc/?username=mertbalkan&color=green) </div>
-
+  
+![](https://komarev.com/ghpvc/?username=mertbalkan&color=green)
   
  
 
