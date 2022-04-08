@@ -7,7 +7,7 @@
 - 😄 Pronouns: Im passionate in game developing and i like learn new things!
 - ⚡ Fun fact: Im playing games since 4 years old and developing games since 11! Also watching movies and series, reading books and making puzzles are my favorite things to do! 
 
-<strong> Im currently member of Pamukkale University Computer Engineering department! </strong>
+<strong> Im currently studying at Pamukkale University Computer Engineering! </strong>
 
 <strong> Let's Go! </strong>
   <a href="https://www.linkedin.com/in/mert-balkan-6515931b9/" target="_blank" rel="nofollow"><img alt="Mert's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
