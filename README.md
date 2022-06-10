@@ -53,7 +53,7 @@
 
 | Bootcamp Joined  | Bootcamp Date | Game Name|
 | ------------- | ------------- | ------------- |
-| <a href = "https://oyunveuygulamaakademisi.com/" align = "center">Game And App Academy Bootcamp 🎮</a>| April 13th 2022  | <a href = "https://emulization.itch.io/home-alone">Home Alone</a>|
+| <a href = "https://oyunveuygulamaakademisi.com/" align = "center">Gooogle Game And Application Academy Bootcamp 🎮</a>| April 13th 2022  | <a href = "https://emulization.itch.io/home-alone">Home Alone</a>|
   
 <h1 align="center">My Last Personal Project</h1>
 <p align = "center"><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link</a></p>
