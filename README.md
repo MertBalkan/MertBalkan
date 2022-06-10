@@ -55,7 +55,7 @@
 | ------------- | ------------- | ------------- |
 | <a href = "https://oyunveuygulamaakademisi.com/" align = "center">Gooogle Game And Application Academy Bootcamp 🎮</a>| April 13th 2022  | <a href = "https://emulization.itch.io/home-alone">Home Alone</a>|
   
-  <iframe frameborder="0" src="https://itch.io/embed/1563028?bg_color=000000&amp;fg_color=d1ffd4&amp;link_color=11ff20&amp;border_color=00df00" width="552" height="167"><a href="https://emulization.itch.io/home-alone">Home Alone by Emulz, MertBalkan</a></iframe>
+
   
 <h1 align="center">My Last Personal Project</h1>
 <p align = "center"><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link</a></p>
