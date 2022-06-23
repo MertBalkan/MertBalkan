@@ -48,12 +48,12 @@
 | <a href = "https://itch.io/jam/atom-gamejam-2" align = "center">At0m GameJam 🎮</a>| February 12th 2021  | <a href = "https://cooperss.itch.io/cheater-tua-man">CheaterTuaMan</a>|
 | <a href = "https://itch.io/jam/magara-jam-3"> Magara GameJam 🎮</a> | July 9th 2021  |  <a href = "https://cooperss.itch.io/zeppelinpunk">ZeppelinPunk</a>|
 |  <a href = "https://globalgamejam.org/">Global Gamejam 2022 🎮</a> | January 20th 2022  | <a href = "https://globalgamejam.org/2022/games/seperation-0">Seperation</a>|
-| <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1) 🎮 2️⃣| February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
+| <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1) 🎮 🏆 | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
 | <a href = "https://itch.io/jam/ank-game-jam">Ankara University GameJam 🎮 | March 25th 2022  | <a href = "https://www.youtube.com/watch?v=52NXupbA080">Drøm </a>|
 
 | Bootcamp Joined  | Bootcamp Date | Game Name|
 | ------------- | ------------- | ------------- |
-| <a href = "https://oyunveuygulamaakademisi.com/" align = "center">Gooogle Game And Application Academy Bootcamp 🎮</a>| April 13th 2022  | <a href = "https://emulization.itch.io/home-alone">Home Alone</a>|
+| <a href = "https://oyunveuygulamaakademisi.com/" align = "center">Google Game And Application Academy Bootcamp 🎮</a>| April 13th 2022  | <a href = "https://emulization.itch.io/home-alone">Home Alone</a>|
   
 
   
