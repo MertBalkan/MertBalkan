@@ -50,6 +50,7 @@
 |  <a href = "https://globalgamejam.org/">Global Gamejam 2022 🎮</a> | January 20th 2022  | <a href = "https://globalgamejam.org/2022/games/seperation-0">Seperation</a>|
 | <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam (HUJAM-1) 🎮 🥈 | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
 | <a href = "https://itch.io/jam/ank-game-jam">Ankara University GameJam 🎮 | March 25th 2022  | <a href = "https://www.youtube.com/watch?v=52NXupbA080">Drøm </a>|
+| <a href = "https://itch.io/jam/snappy-game-off-summer-2022">Snappy Gurus Game Off 🎮 | August 17th 2022  | <a href = "https://akasnowflake.itch.io/golden-fish">Golden Fish </a>|
 
 | Bootcamp Joined  | Bootcamp Date | Game Name|
 | ------------- | ------------- | ------------- |
