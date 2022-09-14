@@ -59,7 +59,7 @@
 
   
 <h1 align="center">My Last Personal Project</h1>
-<p align = "center"><a href = "https://github.com/MertBalkan/Mucilage-Game">Project direct repo link</a></p>
+<p align = "center"><a href = "https://github.com/MertBalkan/Mucilage-Game">Project repo link</a></p>
 
 
 
