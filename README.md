@@ -51,6 +51,7 @@
 | <a href = "https://itch.io/jam/hujam">Hacettepe University GameJam 🎮 🥈 | February 11th 2022  | <a href = "https://verte-x.itch.io/project-creb">Project: KREB</a>|
 | <a href = "https://itch.io/jam/ank-game-jam">Ankara University GameJam 🎮 | March 25th 2022  | <a href = "https://www.youtube.com/watch?v=52NXupbA080">Drøm </a>|
 | <a href = "https://itch.io/jam/snappy-game-off-summer-2022">Snappy Gurus Game Off 🎮 | August 17th 2022  | <a href = "https://akasnowflake.itch.io/golden-fish">Golden Fish </a>|
+| <a href = "https://itch.io/jam/unidos-jam-2022">Unidos GameJam 🎮 | September 24th 2022 🎮 | <a href = "https://sezg.itch.io/investor">Investor </a>|
 
 | Bootcamp Joined  | Bootcamp Date | Game Name|
 | ------------- | ------------- | ------------- |
