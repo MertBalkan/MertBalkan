@@ -58,11 +58,9 @@
 
   
 <h1 align="center">My Last Personal Project</h1>
-<p align = "center"><a href = "https://github.com/MertBalkan/Mucilage-Game">Project repo link</a></p>
 
 
-
-https://user-images.githubusercontent.com/43827959/150222807-103e1b33-1c2c-43d0-9cc4-39cfaec31d2d.mp4
+https://user-images.githubusercontent.com/43827959/226162224-0e478c61-5675-47fc-b229-aea740736b38.mp4
 
 
   
