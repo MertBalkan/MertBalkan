@@ -16,6 +16,8 @@
   <a href="https://steamcommunity.com/id/TheMOON0/" target="_blank" rel="nofollow"><img alt="Mert's Steam" src="https://camo.githubusercontent.com/816a28a81b935f09bbe32600de30a1c29ea2bbc63b932eaeb7c00d2726e22971/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537465616d26636f6c6f723d303030303030266c6f676f3d537465616d266c6f676f436f6c6f723d464646464646266c6162656c3d"
 /></a>
 [![LeetCode user MertBalkan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMertBalkan&logo=leetcode&logoColor=yellow)](https://leetcode.com/MertBalkan/)
+<br/>
+<br/>
 ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
   
 
