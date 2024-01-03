@@ -2,9 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Mert+Balkan...;I'm+Curious+in+Game+Dev+Industry!)](https://git.io/typing-svg)
 
-- ⚡ Fun fact: Im playing games since 4 years old and developing games since 11! Also watching movies and series, reading books and making puzzles are my favorite things to do! Also I'm learning German right now.
+- ⚡ I've been playing games since 4 years old and developing games since 11! 
+- ☀️ I love to get to know different cultures. 
+- 🏰 I have a great interest in the Medieval Era.
+- 🇩🇪 I'm learning German right now.
 
-<strong> Im currently studying at Pamukkale University Computer Engineering! </strong>
+<strong> I'm currently studying at the Bialystok University of Technology Computer Science department </strong>
 
 <strong> Let's Go! </strong>
 <br/>
