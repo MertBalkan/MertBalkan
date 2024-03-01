@@ -59,6 +59,7 @@
 | <a href = "https://itch.io/jam/unidos-jam-2022">Unidos GameJam 🎮🏵️ | September 24th 2022 | <a href = "https://sezg.itch.io/investor">Investor </a>|
 | <a href = "https://globalgamejam.org/2023/games/binding-trees-8">Global Gamejam 2023🎮 | February 3rd 2023 | <a href = "https://globalgamejam.org/2023/games/binding-trees-8">Binding Trees </a>|
 | <a href = "https://itch.io/jam/the-tool-jam-3">The Tool Jam 🛠️| May 1st 2023 | <a href = "https://mertbalkan.itch.io/moon-card-tool">Moon Card Tool </a>|
+| <a href = "https://itch.io/jam/indie-dev-jam-3" align = "center">Indie Dev Game Jam #3  🎮</a>| February 23rd 2024  | <a href = "https://sezg.itch.io/snailey">Snailey</a>|
 
 
 | Bootcamp Joined  | Bootcamp Date | Game Name|
