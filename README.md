@@ -7,8 +7,6 @@
 - 🏰 I have a great interest in the Medieval Era.
 - 🇩🇪 I'm learning German right now.
 
-<strong> I'm currently studying at the Bialystok University of Technology Computer Science department </strong>
-
 <strong> Let's Go! </strong>
 <br/>
 <h3>Connect With Me!<h3/>
